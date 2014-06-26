@@ -1,0 +1,14 @@
+/DFGAnalyzer.java////*////
+/DFGAnalyzer.jpx////*////
+/DFGParser.java////*////
+/DFGParser.jjt////*////
+/DFGParserConstants.java////*////
+/DFGParserTokenManager.java////*////
+/DFGParserTreeConstants.java////*////
+/JJTDFGParserState.java////*////
+/LucidCodeGenerator.java////*////
+/LucidNodeItem.java////*////
+/Makefile////*////
+/ParserFacet.java////*////
+/README////*////
+/SimpleNode.java////*////
